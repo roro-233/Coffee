@@ -31,12 +31,6 @@ nav ul li a {
     .navbar-nav .nav-item {
         width: 100%;
         text-align: center;
-    }
-    h2{
-        font-size:70px;
-        color: bisque;
-        text-shadow: 0 0 5px #5C4033;
-    }
 }
 body{
     background-color: rgb(189, 179, 149);
