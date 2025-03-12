@@ -33,8 +33,13 @@ nav ul li a {
         text-align: center;
     }
    body{
-        background-color: rgb(234, 209, 150);
+        background-color: #8b5e3b;
     }
+    .contact-section {
+    background-color: #c8a97e;
+    padding: 20px;
+    border-radius: 10px;
+} 
 }.contact-page .navbar-nav {
     display: flex;
     flex-direction: column;
