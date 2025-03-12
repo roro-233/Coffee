@@ -68,7 +68,7 @@ nav ul li a {
     background: rgba(255, 255, 255, 0.6); /* لون شفاف فوق الصورة */
 }
 }.contact {
-    text-align: center;
+    text-align:center;
     padding: 50px;
     background-color: #f8f1eb;
 }
