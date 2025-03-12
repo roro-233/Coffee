@@ -1,24 +1,13 @@
-nav{
-    padding:30px;
-  text-align: center;
-    
+.navbar-toggler {
+    border: none;
+    background: transparent;
 }
-nav ul li{
-    display: inline;
-    margin: 0 20px;
-}
-nav ul li a {
-    font-size: 20px;
-    padding:10px 15px;
-}nav ul li a:hover{
-    background-color: blanchedalmond;
-    border-radius:5px;
-    
-}/* ضبط الـ Navbar لتكون أفقية في الوضع العادي */
-.navbar-nav {
-    display: flex;
-    flex-direction: row; /* يجعل القائمة أفقية */
-    justify-content: center;
+
+.navbar-toggler-icon {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/1828/1828859.png");
+    background-size: cover;
+    width: 30px;
+    height: 30px;
 }
 
 /* عند تصغير الشاشة، تتحول القائمة إلى رأسية */
