@@ -35,6 +35,9 @@ nav ul li a {
    body{
         background-color: #8b5e3b;
     }
+    h2{
+        text-align:center;
+    }
     .contact-section {
     background-color: #c8a97e;
     padding: 20px;
