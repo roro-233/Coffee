@@ -34,6 +34,8 @@ nav ul li a {
     }
    body{
         background-color: #8b5e3b;
+       padding: 0;
+       margin:0;
     }
     h2{
         text-align:center;
